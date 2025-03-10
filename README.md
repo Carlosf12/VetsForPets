@@ -57,7 +57,7 @@ Agradecemos a los siguientes colaboradores por su invaluable contribución a est
 
 * [Juan David Esparza](https://github.com/JDXE22)
 * [Elias Adad](https://github.com/EliasAdad)
-* [Carlos Figueira](https://github.com/carlosfigueira)
+* [Carlos Figueira](https://github.com/Carlosf12)
 
 ## Información de Acceso ℹ️
 
