@@ -32,6 +32,7 @@ Este proyecto ha sido desarrollado utilizando las siguientes tecnologías:
 
 * **Frontend:**
     * Next.js: Framework de React para construir aplicaciones web rápidas y escalables.
+    * React: Librería de JavaScript para construir interfaces de usuario.
     * TypeScript: Lenguaje de programación que añade tipado estático a JavaScript.
     * Leaflet: Librería para la integración de mapas interactivos y geolocalización.
     * CSS: Lenguaje de hojas de estilo para el diseño visual de la aplicación.
