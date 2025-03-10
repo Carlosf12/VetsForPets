@@ -26,7 +26,6 @@ Este proyecto ha sido desarrollado utilizando las siguientes tecnologías:
     * WebSocket.io: Comunicación en tiempo real para el chat de emergencias.
     * Stripe: Integración de pagos para transacciones seguras.
     * Nodemailer: Envío de correos electrónicos para notificaciones y confirmaciones.
-    * Express: Framework web minimalista para construir APIs.
     * Cloudinary: Gestión de imágenes y archivos multimedia en la nube.
     * OAuth con Google: Autenticación de terceros para facilitar el inicio de sesión de usuarios.
 
