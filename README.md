@@ -46,15 +46,16 @@ Agradecemos a los siguientes colaboradores por su invaluable contribución a est
 
 **Frontend:**
 
-* [Angie Caterine](https://github.com/angiecaterine)
-* [Elias Jose](https://github.com/eliasjose95)
-* [Hugo Jose](https://github.com/hugojps)
-* [Juan David](https://github.com/juandiazdev)
-* [Sebastian Garcia](https://github.com/sebas0507)
+* [Angie Bengelsdorff](https://github.com/ABengelsdorff)
+* [Maria Paz Rivas](https://github.com/Maria-Paz-Rivas)
+* [Hugo Esverri](https://github.com/HugoEseverri)
+* [Cristian Camelo](https://github.com/CristianCamelo)
+* [Sebastian Sanjorge](https://github.com/tiansanjorge)
 
 
 **Backend:**
 
+* [Juan David Esparza](https://github.com/JDXE22)
+* [Elias Adad](https://github.com/EliasAdad)
 * [Carlos Figueira](https://github.com/carlosfigueira)
-* [Cristian Camilo](https://github.com/CristianCAMILO)
-* [Maria Alejandra](https://github.com/mariaalejandramr)
+
