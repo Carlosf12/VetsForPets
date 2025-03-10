@@ -1,16 +1,16 @@
 # VetsForPets 🐶🐱🏥
 
-¡Bienvenido a VetsForPets! 👋 Una plataforma innovadora diseñada para conectar a dueños de mascotas con veterinarias cercanas 📍, facilitando el cuidado y la atención de sus animales 🐾.
+¡Bienvenido a VetsForPets! 👋 Una plataforma innovadora 🚀 diseñada para conectar a dueños de mascotas 🐕🐈 con veterinarias cercanas 📍, facilitando el cuidado y la atención de sus animales 🐾.
 
 ## Descripción General 📝
 
 VetsForPets es una aplicación web que ofrece las siguientes funcionalidades:
 
-* **Registro de Mascotas:** 🐕🐈 Los usuarios pueden crear perfiles detallados para sus mascotas, incluyendo información relevante sobre su salud y necesidades.
-* **Geolocalización de Veterinarias:** 🗺️ Encuentra veterinarias cercanas a tu ubicación actual, facilitando la búsqueda de atención veterinaria de calidad.
-* **Agendamiento de Citas:** 📅 Programa citas con veterinarias de forma rápida y sencilla, evitando largas esperas y llamadas telefónicas.
-* **Botón de Emergencia:** 🚨 Accede a un chat en vivo con veterinarios para atender emergencias y recibir asistencia inmediata para tu mascota.
-* **Membresías:** 💳 Accede a membresías exclusivas para tus mascotas con la mejor atención y descuentos únicos mediante nuestra pasarela de pagos segura.
+* **Registro de Mascotas:** 🐕🐈 Registra a tus peludos amigos 🐶🐱 con información detallada sobre su salud, raza, edad y necesidades específicas 🩺.
+* **Geolocalización de Veterinarias:** 🗺️ Encuentra las veterinarias más cercanas a tu ubicación 📍 utilizando nuestro mapa interactivo 🗺️. ¡Dile adiós a las largas búsquedas!
+* **Agendamiento de Citas:** 📅 Olvídate de las llamadas telefónicas 📞. Agenda citas con veterinarias de forma rápida y sencilla con nuestro sistema de reservas online 💻.
+* **Botón de Emergencia:** 🚨 ¿Tu mascota necesita atención inmediata? 😱 Utiliza nuestro botón de emergencia 🚨 para chatear en vivo con un veterinario 👨‍⚕️👩‍⚕️ y obtener ayuda lo antes posible.
+* **Membresías:** 💳 Obtén acceso a membresías exclusivas 🌟 para tus mascotas con beneficios como descuentos en consultas, vacunas y medicamentos 💉💊. ¡Mantén a tu mascota sana y feliz! 😊
 
 ## Tecnologías Utilizadas 💻
 
@@ -57,3 +57,22 @@ Agradecemos a los siguientes colaboradores por su invaluable contribución a est
 * [Juan David Esparza](https://github.com/JDXE22)
 * [Elias Adad](https://github.com/EliasAdad)
 * [Carlos Figueira](https://github.com/carlosfigueira)
+
+## Información de Acceso ℹ️
+
+* **Despliegue Front-End:** [https://front-pf-vets-for-pets-main.vercel.app/](https://front-pf-vets-for-pets-main.vercel.app/)
+* **Despliegue Back-End:** [https://vetsforpets-api.onrender.com/#/](https://vetsforpets-api.onrender.com/#/)
+* **Repositorio Back-End:** [https://github.com/vetsforpets/Back-PF-VetsForPets](https://github.com/vetsforpets/Back-PF-VetsForPets)
+* **Repositorio Front-End:** [https://github.com/vetsforpets/Front-PF-VetsForPets](https://github.com/vetsforpets/Front-PF-VetsForPets)
+
+## Usuarios de Prueba 🧑‍💻
+
+* **Usuario dueño de Mascotas:**
+    * Correo: seba@gmail.com
+    * Contraseña: Abcd123!
+* **Usuario Administrador:**
+    * Correo: sam@gmail.com
+    * Contraseña: Sam1234!
+* **Usuario Veterinaria:**
+    * Correo: veterinarialayus@gmail.com
+    * Contraseña: Vet1234!
